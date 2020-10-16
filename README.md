@@ -1,5 +1,6 @@
+// this is a project from JetBrains Academy
 # Tic-Tac-Toe
-Tic - TAC Toe -  02. 09.2020
+TAC - TAC Toe -  02. 09.2020
 
 package tictactoe;
 import java.util.*;

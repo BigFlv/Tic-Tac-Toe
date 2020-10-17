@@ -1,13 +1,13 @@
-// this is a project from JetBrains Academy
+The code is made according to the requirements of the JetBrains Academy.
 # Tic-Tac-Toe
-TAC - TAC Toe -  02. 09.2020
 
-package tictactoe;
-import java.util.*;
+    package tictactoe;
+    import java.util.*;
 
-public class Main {
-
+    public class Main {
+    
     static Scanner scanner = new Scanner(System.in);
+    
     public static void main(String[] args) {
         char[][] newGame = readField();
         printBoard(newGame);

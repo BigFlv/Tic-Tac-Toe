@@ -92,5 +92,5 @@ The code is made according to the requirements of the JetBrains Academy.
                 System.out.println("You should enter numbers!");
             }
         }
+       }
     }
-}
